@@ -1,0 +1,10 @@
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.mp3
+*.srt
+artifacts/
+renders/
+output/
+*.log
